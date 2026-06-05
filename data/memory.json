@@ -1,0 +1,20 @@
+[
+  "create hello.py",
+  "run pwd",
+  "read hello.py",
+  {
+    "task": "create fastapi user api"
+  },
+  {
+    "task": "create fastapi user api"
+  },
+  {
+    "task": "build fastapi project"
+  },
+  {
+    "task": "build fastapi auth system"
+  },
+  {
+    "task": "build fastapi project"
+  }
+]
